@@ -1,0 +1,341 @@
+body {
+
+width:1100px;	
+margin:0px auto;
+
+
+
+background: linear-gradient(to top, CornflowerBlue, LightCyan);
+}
+
+
+
+
+
+.p30c41ng, .p30c64ng, .p30c15ng, .p30ch15r, .p15c65ng, .p15c22ng
+{
+width:900px;
+
+
+position: relative;
+margin:15px auto;
+padding:15px auto;
+
+
+background-image: url("./Картинки/фоновая.jpg");
+border-radius: 20px 20px 80px 80px;
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 10px 7px CornflowerBlue;  
+}
+
+
+
+.p30c41ng h1, .p30c64ng h1, .p30c15ng h1, .p30ch15r h1, .p15c65ng h1, .p15c22ng h1
+{border: 2px solid green;
+text-align: center;	
+
+width:460px;
+
+margin: 30px auto;
+background-color:MediumBlue;
+font-family: monospace;	
+font-style: normal;
+color: white;	
+	
+text-shadow: 3px 3px green;	
+
+border-bottom: 4px solid white;
+border-radius: 45px;
+box-shadow:0px 10px 23px 13px DarkBlue; 
+border-left: 3px solid white;
+border-right: 3px solid white;
+border-top: 1px solid white;
+}
+
+
+.p30c41ng p, .p30c64ng p, .p30c15ng p, .p30ch15r p, .p15c65ng p, .p15c22ng p
+{
+text-align: left;
+position: relative;
+margin: 40px auto 20px;
+width:800px;	
+font-family: monospace;	
+font-style: normal;	
+font-weight: bold;
+font-size: 22px;
+}
+
+
+.p30c41ng details, .p30c64ng details, .p30c15ng details, .p30ch15r details, .p15c65ng details, .p15c22ng details
+{border: 2px solid navy;
+position:relative;
+width:300px;
+
+margin:6px auto;
+
+border-radius: 10px 10px 20px 20px;
+	
+
+}
+
+
+
+.p30c41ng img, .p30c64ng img, .p30c15ng img, .p30ch15r img, .p15c65ng img, .p15c22ng img
+{
+width: 100px;
+height: 113px;	
+position: relative;
+display: inline-block;
+padding-top: 10px;
+
+border-radius: 5px 5px 20px 20px;		
+}
+.p30c41ng img:hover 
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+.p30c64ng img:hover
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+.p30c15ng img:hover
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+.p30ch15r  img:hover
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+.p15c65ng  img:hover
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+.p15c22ng img:hover
+{transform: scale(2);	
+transition:1.5s;	
+box-shadow:0 0 23px 20px Navy; 	
+position: relative;	
+}
+
+
+
+
+table
+{
+	width:240px;
+	height: 280px;
+
+margin: 5px auto;	
+background-size: 100%;
+text-align: center;
+font-size: 25px;
+	
+}
+
+
+
+
+li
+{position: relative;
+margin: 5px auto;
+	
+	
+}
+
+
+li a
+{
+font-size: 23px;	
+font-style: none;
+text-decoration: none;
+color:black;
+	
+	
+}
+
+li a:hover
+{
+font-size: 25px;		
+font-weight: bold;	
+	
+}
+
+
+
+
+
+
+
+#ImgProd3041 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/30с41нж.jpg");		
+background-size: 100%;	
+border-radius: 40px;
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 	
+}
+
+#ImgProd3064 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/30с64нж.jpg");		
+background-size: 100%;	
+border-radius: 40px;	
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 	
+}
+
+#ImgProd3015 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/30с15нж.jpg");		
+background-size: 100%;	
+border-radius: 40px;
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 		
+}
+
+#ImgProd3039 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/30ч39р.jpg");		
+background-size: 100%;	
+border-radius: 40px;
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 		
+}
+
+#ImgProd1565 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/15с65нж.jpg");		
+background-size: 100%;	
+border-radius: 40px;
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 		
+}
+
+#ImgProd1522 /*картинка продукции в каталоге*/
+{
+width:160px;
+height: 200px;	
+position: relative;	
+margin: 10px auto 30px;
+background-image: url("./Картинки/15с22нж.jpg");		
+background-size: 100%;	
+border-radius: 40px;	
+border-bottom: 10px solid MidnightBlue;
+border-left: 1px solid MidnightBlue;
+border-right: 1px solid MidnightBlue;
+box-shadow:0 0 100px 2px MidnightBlue; 	
+}
+
+
+
+
+
+
+ summary
+{
+width:290px;	
+text-align: left;
+border-radius: 10px 10px 20px 20px;
+padding-left: 10px;
+font-size:22px;	
+border: 1px solid navy;	
+box-shadow:0px 0px 23px 3px DarkBlue;	
+}
+
+summary:hover
+{
+cursor: pointer;
+box-shadow:0px 0px 20px 9px Navy;
+border: 2px solid white;
+text-shadow: 2px 2px yellow;
+font-weight: bold;
+font-size: 23px;
+border-radius: 10px 10px 20px 20px;
+}
+
+
+
+
+
+details[open]
+{
+	margin-top: auto;
+	
+}
+
+
+
+details[open], summary /* свойства открытия*/
+{
+ animation: scale .5s ease-in-out; 
+ 
+ 
+}	 
+
+
+
+
+
+
+details[open]  /* плавное открытие*/
+ {
+  animation: slide 1s ease-in-out;
+}
+
+@keyframes slide  /* плавное открытие*/
+{
+  0%    { opacity: 0; transform:  translate(0, 0px); }
+  50%    { opacity: 0.5; transform:  translate(0, 0px); }
+  100%  { opacity: 1; transform:  translate(0, 0); }
+
+
+
+
+
